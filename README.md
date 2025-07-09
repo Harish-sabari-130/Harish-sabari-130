@@ -1,6 +1,6 @@
 <p align="left">
   <!-- Hi line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm+Harish+Sabari+P+V" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm+Harish+sabari+P+V" alt="Typing SVG" />
   <br/>
 <p/>
   
